@@ -22,7 +22,6 @@ async function connectToWhatsApp () {
                 worksheet.addRow({number: num[0]})
             }
             await workbook.xlsx.writeFile('numbers.xlsx')
-            console.log('Arquivo criado com sucesso!')
         }
     })
     await conn.connect ()
