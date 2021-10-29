@@ -6,6 +6,11 @@ Um simples sistema que irá salvar em um arquivo xlsx todos os números que esti
 
 ## Por que?
 
+## Requisitos
+
+- NodeJS 
+- NPM
+
 Uma pessoa estava necessitando de algo parecido com isto, então tirei um tempo para faze-lo.
 
 # Instalação
