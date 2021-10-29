@@ -1,0 +1,17 @@
+{
+  "name": "wppcontactstoxlsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "exceljs": "^4.3.0"
+  }
+}
